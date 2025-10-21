@@ -1,7 +1,9 @@
-import random
+import datetime, bday_messages as bd
 
-def Random():
-    for i in range(10) :
-        print(random.randint(1, 10))
+today = datetime.date.today()
+hashtag_festival = datetime.date(2025, 10, 18)
 
-Random()
+days_prior = hashtag_festival - today
+
+if today == hashtag_festival: print(bd.random_message())
+else: print(f'It has been {abs(days_prior)} days since the hashtag festival 2025')
