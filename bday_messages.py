@@ -1,4 +1,4 @@
-import random
+import random_fantasy
 
 bday_messages = [
     'Hope you have a very Happy Birthday! 🎈',
