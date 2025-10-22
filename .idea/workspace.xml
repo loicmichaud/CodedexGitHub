@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468dabf1-c8d6-485d-8331-b8dddb85446f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/belongings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gramy_award.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mental_Math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hight_order_func.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +37,17 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Bestbook.executor": "Run",
+    "Python.Gramy_award.executor": "Run",
+    "Python.Mental_Math.executor": "Run",
     "Python.Oups.executor": "Run",
+    "Python.belongings.executor": "Run",
     "Python.cities.executor": "Run",
     "Python.create_gif.executor": "Run",
     "Python.csv.executor": "Run",
     "Python.files.executor": "Run",
+    "Python.hight_order_func.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.pur_impur_function.executor": "Run",
     "Python.wiki.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
