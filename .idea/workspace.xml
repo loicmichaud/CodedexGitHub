@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468dabf1-c8d6-485d-8331-b8dddb85446f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/random_fantasy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_string_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unexpected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bank_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_bank_account.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bday_messages.py" beforeDir="false" afterPath="$PROJECT_DIR$/bday_messages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unexpected.py" beforeDir="false" afterPath="$PROJECT_DIR$/unexpected.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +37,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_string_utils.py.executor": "Run",
+    "Python tests.Python tests in unexpected.py.executor": "Run",
     "Python tests.Python tests in uni.py.executor": "Run",
     "Python.Bestbook.executor": "Run",
     "Python.Gramy_award.executor": "Run",
