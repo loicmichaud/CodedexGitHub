@@ -1,6 +1,13 @@
-file = open('diaries.txt', 'w', encoding='UTF-16')
+liked_songs = {
+  'Last Song': 'StarrySky',
+  'Squeezie': 'StarrySky',
+  'Maliki': 'StarrySky'
+}
 
+def write_liked_songs_to_file(liked_songs, file_name):
+    with open(file_name, 'w') as f:
+        f.write("Liked Songs:\n")
+        for song, artist in liked_songs.items():
+            f.write(f'{song} by {artist}\n')
 
-file.write("Je ne souhaite pas rester toute ma vie à SMP car le job ne me convient pas")
-file.write("Je préfère être à Dijon")
-file.write("j'en ai marre")
+write_liked_songs_to_file(liked_songs, 'liked_songs.txt')
